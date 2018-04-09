@@ -7,7 +7,6 @@
  ;; If there is more than one, they won't work right.
  '(company-idle-delay 0.3)
  '(company-show-numbers t)
- '(flycheck-clang-language-standard nil)
  '(package-selected-packages
    (quote
     (hungry-delete markdown-mode company smartparens flycheck ivy counsel swiper company-irony flycheck-irony irony-eldoc gotham-theme spacemacs-theme))))

@@ -7,7 +7,7 @@
 (tool-bar-mode -1)
 (global-linum-mode t)
 (scroll-bar-mode -1)
-(setq-default cursor-type 'box)
+(setq-default cursor-type 'bar)
 (global-hl-line-mode t)
 (set-default-font "CamingoCode 12")
 (load-theme 'spacemacs-light t)

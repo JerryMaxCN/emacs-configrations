@@ -24,6 +24,7 @@
 			 company-irony-c-headers
 			 gotham-theme
 			 spacemacs-theme
+			 solarized-theme
 			 ) "Default packages")
 
 ;; 测试插件安装与否决定是否安装
